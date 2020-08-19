@@ -18,4 +18,10 @@ Find following insights:
 
 <img src='https://raw.githubusercontent.com/Shaon2221/Sales-Data-Analysis/master/product_price_quantity.png'>
 
+# Tools Used
+### Python, Pandas, Matplotlib
+
+
+<br><br><br>
+
 **Project idea and dataset:** [Keith Galli](https://www.youtube.com/channel/UCq6XkhO5SZ66N04IcPbqNcw)
