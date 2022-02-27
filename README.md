@@ -5,7 +5,7 @@ I am enthusiast to pursue my career as data scientist in Business Intelligence d
 Find following insights:
 - Best time for display advertisement
 - Products that most often sold together
-- Reason behind a product sold most
+- Reason behind a product sold most 
 - Best month for sales
 - Most product selling city
 
