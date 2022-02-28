@@ -1,7 +1,7 @@
 # Motivation
 I am enthusiast to pursue my career as data scientist in Business Intelligence domain. So, it's important to get familiar with finance and sales data. This dataset is perfect for my sales data analysis goal.
 
-# Objectives
+# Objectives 
 Find following insights:
 - Best time for display advertisement
 - Products that most often sold together
